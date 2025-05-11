@@ -27,7 +27,7 @@ I'm a software engineer with **7+ years of experience** turning bold ideas into 
 - 👯 I’m looking to collaborate on social innovation and impact-driven platforms  
 - 🤔 I’m looking for help with building global partnerships for community-centered products  
 - 💬 Ask me about software architecture, product strategy, or bootstrapping MVPs  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/se)  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sechibueze)  
 - ⚡ Fun fact: I can debug legacy code while vibing to hymns 🎧
 
 ---
